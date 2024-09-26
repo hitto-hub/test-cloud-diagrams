@@ -17,3 +17,6 @@ pip install diagrams
 pip freeze > requirements.txt
 ```
 
+## blog
+
+[blogはここ](https://coffee-soldier-56f.notion.site/Diagrams-10c729a7cf0380198d85f4f77ed430c4)
